@@ -18,10 +18,20 @@ A responsive Q&A platform inspired by Quora, allowing users to ask questions, su
 Run the following commands in your terminal:
 
 
+<pre>
+# Clone the repository
 git clone https://github.com/Khushi220703/quora-clone.git
+
+# Navigate into the project folder
 cd quora-clone
+
+# Install dependencies
 npm install
+
+# Start the project
 npm start
+</pre>
+
 Open http://localhost:3000
  in your browser to see the application. 
 
