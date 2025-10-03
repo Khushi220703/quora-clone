@@ -1,4 +1,4 @@
-<img width="1919" height="958" alt="Screenshot 2024-12-22 022159" src="https://github.com/user-attachments/assets/55ab625d-c598-4ed9-9cc6-96ddfa78d6e3" /># Quora Clone – Responsive Q&A Platform
+# Quora Clone – Responsive Q&A Platform
 
 A responsive Q&A platform inspired by Quora, allowing users to ask questions, submit answers, and interact through upvotes, downvotes, comments, and shares. Designed with a clean UI and responsive layout for seamless usage across all devices.
 
