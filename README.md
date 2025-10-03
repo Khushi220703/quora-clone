@@ -28,11 +28,12 @@ cd quora-clone
 # Install dependencies
 npm install
 
-# Start the project
-npm start
+# Start the Vite development server
+npm run dev
 </pre>
 
-Open http://localhost:3000
+
+Open http://localhost:5173
  in your browser to see the application. 
 
 **Usage:**
