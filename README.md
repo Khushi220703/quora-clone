@@ -56,15 +56,13 @@ Open http://localhost:5173
 Skills Demonstrated:
 React.js · Tailwind CSS · Component Reusability · State Management · Responsive Design!
 
-**Below are the images of the site**
+## Below are the images of the site
 
-#Home Page
-<img width="1919" height="966" alt="Screenshot 2024-12-22 022146" src="https://github.com/user-attachments/assets/4f7df235-68dd-405a-ae39-fe26a01c8391" />
+### Home Page
+![Home Page](https://github.com/user-attachments/assets/421d779f-df11-417d-b5b9-8dc182e841ce)
 
-#Add Post Modal
-<img width="1919" height="973" alt="Screenshot 2024-12-22 022135" src="https://github.com/user-attachments/assets/421d779f-df11-417d-b5b9-8dc182e841ce" />
+### Add Post and Ask Question Modal
+![Add Post Modal](https://github.com/user-attachments/assets/4f7df235-68dd-405a-ae39-fe26a01c8391)
 
-#Notification Page
-<img width="1919" height="958" alt="Screenshot 2024-12-22 022159" src="https://github.com/user-attachments/assets/f75f21d8-21c9-425d-a93c-837ecd9344e1" />
-
-
+### Notification Page
+![Notification Page](https://github.com/user-attachments/assets/f75f21d8-21c9-425d-a93c-837ecd9344e1)
